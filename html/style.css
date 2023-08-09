@@ -1,0 +1,33 @@
+body{
+    margin-left:10px;
+    padding:0;
+}
+h1{
+    margin-left:41%;
+    text-decoration: underline;
+}
+h3{
+    margin:0px;
+    text-decoration: underline;
+}
+#date{
+    margin: 10px;
+}
+h2{
+    text-decoration: underline;
+}
+p{
+    margin-left:28%;
+}
+#par{
+    margin-left: 50px;
+}
+img{
+    border-radius: 50%;
+}
+.pro{
+    margin:0px;
+}
+.my, .ebll {
+    margin-top:20px;
+}
